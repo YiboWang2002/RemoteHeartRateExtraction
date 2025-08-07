@@ -15,7 +15,7 @@ prop = fm.FontProperties(fname=font_path, size=20)  # 修改字体大小为20磅
 # 用户输入特定点的坐标
 x = 200  # 输入 x 坐标
 y = 200  # 输入 y 坐标
-
+mmmm = 5000
 # 摄像头捕获视频
 video_folder = r'..\xx_folder'
 video_path = os.path.join(video_folder, 'video.avi')
